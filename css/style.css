@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster|Macondo|Pacifico|Righteous|Roboto|Spirax');
+
+/*font-family: 'Roboto', sans-serif;
+font-family: 'Macondo', cursive;
+font-family: 'Spirax', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Pacifico', cursive;
+font-family: 'Righteous', cursive;*/
+
+body {
+	background: rgba(46, 139, 126, 0.84);
+	font-size: 20px;
+
+}
+.contant {
+	margin-top: 50px;
+}
+
+.paracon {
+	background: #34a096;)
+}
